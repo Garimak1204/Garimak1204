@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Garimak1204](https://github.com/Garimak1204)
+- 👨‍💻 All of my projects are available at [https://github.com/Garimak1204?tab=repositories](https://github.com/Garimak1204)
 
 - 💬 Ask me about **DS,DAA and Web Dev**
 
